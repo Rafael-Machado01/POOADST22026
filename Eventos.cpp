@@ -30,5 +30,4 @@ int main () {
 
 //   cout << par1.descricao << endl;
 
-
 }
